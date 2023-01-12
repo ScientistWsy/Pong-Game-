@@ -1,4 +1,4 @@
-# Pong_Game
+# Pong Game
 
 Applying the knowledge acquired on the Alura platform
 
