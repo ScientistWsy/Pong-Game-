@@ -1,6 +1,6 @@
 # Pong Game
 
-Applying the knowledge acquired on the Alura platform
+Applying the knowledge acquired on the Alura platform,
 
 My first game, created using Javascript:
 
